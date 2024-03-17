@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "site": "mac-1",
     "ignore": [
       "firebase.json",
       "**/.*",
